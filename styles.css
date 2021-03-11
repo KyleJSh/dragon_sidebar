@@ -14,7 +14,7 @@ Variables
 
 :root {
   /* dark shades of primary colour */
-  --clr-primary-1: hsl(12, 86%, 17%);
+  --clr-primary-1: hsl(12, 86%, 18%);
   --clr-primary-2: hsl(12, 77%, 27%);
   --clr-primary-3: hsl(12, 72%, 38%);
   --clr-primary-4: hsl(12, 63%, 48%);
@@ -271,7 +271,7 @@ Sidebar Header
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 95%;
   background: rgb(36, 36, 36);
   display: grid;
   grid-template-rows: auto 1fr auto;
