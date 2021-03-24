@@ -148,12 +148,12 @@ Dragon Button
 
 .dragon-toggle {
   position: fixed;
-  top: 2rem;
-  right: 3rem;
+  top: 1.6rem;
+  right: 2.8rem;
   background: transparent;
   border-color: transparent;
   color: var(--clr-primary-3);
-  font-size: 4rem;
+  font-size: 3.8rem;
   cursor: pointer;
   transition: var(--transition);
   animation: bounce 2s ease-in-out infinite;
